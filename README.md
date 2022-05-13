@@ -6,7 +6,7 @@ Welcome! I'm Cong Ha! | <img align="center" height="18px" src="https://wakatime.
 
 <div>
 <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=congjeezy&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&layout=compact&langs_count=8&theme=radical"/>
+<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congjeezy&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div style="display: inline_block; "><br>
